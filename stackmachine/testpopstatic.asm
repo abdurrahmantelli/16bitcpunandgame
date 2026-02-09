@@ -1,0 +1,4 @@
+init.stack
+push.value x42
+pop.static x16
+# address 16 should have value 42
