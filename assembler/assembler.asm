@@ -1,0 +1,25 @@
+A=3
+D=A
+A=0
+*A=D
+# LAMBA AC
+A=1
+D=A
+A=32767
+*A=D
+# LAMBA KAPAT
+A=2
+D=A
+A=32767
+*A=D
+# SAYAC DUSUR
+A=0
+D=*A
+D=D-1
+*A=D
+# DONGU KONTROL
+A=4
+D;JGT
+# SON
+A=18
+0;JMP
