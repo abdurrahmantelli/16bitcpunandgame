@@ -1,0 +1,3 @@
+init.stack
+push.value 0x7c89
+# Inspect stack: top should be 0x7c89
