@@ -1,0 +1,4 @@
+init.stack
+D = 1
+push.d
+# inspect top of stack. Should be 1.
