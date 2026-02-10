@@ -1,0 +1,5 @@
+init.stack
+push.value 16
+push.value 42
+pop.memory
+# address 16 should have value 42
