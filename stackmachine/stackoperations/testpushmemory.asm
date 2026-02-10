@@ -1,0 +1,10 @@
+init.stack
+# store 42 at address 16
+A = 42
+D = A
+A = 16
+*A = D
+
+push.value 16
+push.memory
+# top of stack should have value 42
